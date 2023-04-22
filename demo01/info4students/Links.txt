@@ -1,0 +1,12 @@
+PetStore Swagger UI:		https://petstore.swagger.io
+
+Postgresql Docker Compose:	https://blog.christian-schou.dk/run-postgresql-database-using-docker-compose/
+				https://stackoverflow.com/questions/31249112/allow-docker-container-to-connect-to-a-local-host-postgres-database
+					apt-get update
+					apt-get -y install vim
+					find / -type f -name pg_hba.conf
+				https://stackoverflow.com/questions/60173448/how-can-i-allow-connections-by-specifying-docker-compose-host-names-in-postgres
+
+https://springdoc.org/
+
+CORS - disable on Chrome: https://stackoverflow.com/questions/3102819/disable-same-origin-policy-in-chrome

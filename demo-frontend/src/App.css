@@ -1,0 +1,23 @@
+
+.logo {
+  width: 175px;
+}
+
+.custom-image {
+  max-height: 400px;
+}
+
+.container {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.default-page {
+  padding: 16px;
+  height: 96vh;
+  background-image: url("./assets/logo2.png");
+}
