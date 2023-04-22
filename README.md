@@ -1,3 +1,9 @@
+Team: SoftCorn
+Members: Eddie
+        Catalin 
+        Tudor
+
+
 # CodeRunIBM
 
 ## The Backend project demo (via Spring Boot) is in \demo01
