@@ -1,0 +1,21 @@
+select * from survey
+
+INSERT INTO survey(id, name) VALUES (1, 'survey 01');
+INSERT INTO survey(id, name) VALUES (2, 'survey 02');
+INSERT INTO survey(id, name) VALUES (3, 'survey 03');
+INSERT INTO survey(id, name) VALUES (4, 'survey 04');
+INSERT INTO survey(id, name) VALUES (5, 'survey 05');
+INSERT INTO survey(id, name) VALUES (6, 'survey 06');
+INSERT INTO survey(id, name) VALUES (7, 'survey 07');
+
+INSERT INTO survey_question(survey_id, id, index, body) VALUES (1, 	1, 1, 'What is your name?');
+INSERT INTO survey_question(survey_id, id, index, body) VALUES (1, 	2, 2, 'What is your email?');
+INSERT INTO survey_question(survey_id, id, index, body) VALUES (1, 	3, 3, 'On a scale from 1 to 10, how much do you like "Poli"?');
+INSERT INTO survey_question(survey_id, id, index, body) VALUES (2, 	4, 1, 'What is your email?');
+INSERT INTO survey_question(survey_id, id, index, body) VALUES (2, 	5, 2, 'What is your password? :)');
+INSERT INTO survey_question(survey_id, id, index, body) VALUES (3, 	6, 1, 'How much do you like Java (with Spring Boot?');
+INSERT INTO survey_question(survey_id, id, index, body) VALUES (3, 	7, 2, 'How much do you like React?');
+
+
+
+
